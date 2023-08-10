@@ -8,6 +8,8 @@ packages = [{include = "lagrange_backend"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+flask = "^2.3.2"
+websockets = "^11.0.3"
 
 
 [build-system]
